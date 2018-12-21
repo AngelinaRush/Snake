@@ -1,0 +1,20 @@
+﻿  main.cpp
+d:\drivers\учеба\программирование\snake1\snake\snake\buttononclick.h(10): warning C4305: инициализация: усечение из "double" в "float"
+d:\drivers\учеба\программирование\snake1\snake\snake\main.cpp(142): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\drivers\учеба\программирование\snake1\snake\snake\main.cpp(118): warning C4101: StructY: неиспользованная локальная переменная
+d:\drivers\учеба\программирование\snake1\snake\snake\main.cpp(118): warning C4101: structX: неиспользованная локальная переменная
+  menuObjects.cpp
+d:\drivers\учеба\программирование\snake1\snake\snake\menuobjects.cpp(10): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\drivers\учеба\программирование\snake1\snake\snake\menuobjects.cpp(11): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\drivers\учеба\программирование\snake1\snake\snake\menuobjects.cpp(12): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\drivers\учеба\программирование\snake1\snake\snake\menuobjects.cpp(32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\drivers\учеба\программирование\snake1\snake\snake\menuobjects.cpp(41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\drivers\учеба\программирование\snake1\snake\snake\menuobjects.cpp(52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\drivers\учеба\программирование\snake1\snake\snake\menuobjects.cpp(57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\drivers\учеба\программирование\snake1\snake\snake\menuobjects.cpp(57): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  snake.cpp
+d:\drivers\учеба\программирование\snake1\snake\snake\snake.cpp(43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\drivers\учеба\программирование\snake1\snake\snake\snake.cpp(71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\drivers\учеба\программирование\snake1\snake\snake\snake.cpp(91): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода...
+  Snake.vcxproj -> D:\Drivers\учеба\программирование\Snake1\Snake\Debug\Snake.exe
